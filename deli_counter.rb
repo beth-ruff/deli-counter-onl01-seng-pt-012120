@@ -13,7 +13,7 @@ def line(deli)
 end
 
 def take_a_number(deli, person)
-  puts "Welcome, #{person}. You are number #{deli.index(person)} in line."
+  puts "Welcome, #{person}. You are number #{deli.index(1)} in line."
 end
 
   
