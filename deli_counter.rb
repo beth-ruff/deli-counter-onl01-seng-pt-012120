@@ -12,6 +12,8 @@ def line(deli)
   end
 end
 
-line(deli)
+take_a_number(deli, person)
+  puts
+end
 
   
