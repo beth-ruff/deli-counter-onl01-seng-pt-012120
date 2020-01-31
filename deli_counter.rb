@@ -17,5 +17,8 @@ def take_a_number(deli, person)
   puts "Welcome, #{person}. You are number #{deli.length} in line."
 end
 
+def now_serving(deli)
+  
+end
 
   
