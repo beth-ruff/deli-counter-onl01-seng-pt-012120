@@ -22,7 +22,7 @@ def now_serving(deli)
     puts "There is nobody waiting to be served!"
   else 
     str = "Currently serving "
-    deli.each do |person.first|
+    deli.each do |person|
       str += "#{person}"
     end
     puts str
