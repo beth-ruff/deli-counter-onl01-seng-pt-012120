@@ -14,7 +14,6 @@ end
 
 take_a_number(deli, person)
   deli << person
-    puts 
 end
 
   
