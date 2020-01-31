@@ -13,7 +13,8 @@ def line(deli)
 end
 
 take_a_number(deli, person)
-  puts
+  deli << person
+    puts 
 end
 
   
