@@ -1,4 +1,4 @@
-deli = ["Logan", "Ari", "Spencer"]
+deli = ["Logan", "Avi", "Spencer"]
 
 def line(deli)
   if deli.length == 0
@@ -10,5 +10,6 @@ def line(deli)
   end
 end
 
+line(deli)
 
   
