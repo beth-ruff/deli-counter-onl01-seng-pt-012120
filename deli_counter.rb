@@ -23,7 +23,7 @@ def now_serving(deli)
   else 
     str = "Currently serving "
     deli.each do |person|
-      str += "#{person}"
+      str += "#{person.first}"
     end
     puts str
   end
