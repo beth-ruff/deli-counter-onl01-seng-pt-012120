@@ -12,8 +12,9 @@ def line(deli)
   end
 end
 
-take_a_number(deli, person)
-  deli << person
+def take_a_number(deli, person)
+  
+  
 end
 
   
